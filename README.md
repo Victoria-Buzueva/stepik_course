@@ -1,2 +1,2 @@
 # stepik_course
-Solving the task in module 3.1
+Решение задачи для модуля 3.1
